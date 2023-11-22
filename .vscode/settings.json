@@ -79,6 +79,12 @@
         "__threading_support": "cpp",
         "__verbose_abort": "cpp",
         "ios": "cpp",
-        "locale": "cpp"
+        "locale": "cpp",
+        "hash_map": "cpp",
+        "deque": "cpp",
+        "hash_set": "cpp",
+        "slist": "cpp",
+        "charconv": "cpp",
+        "__memory": "cpp"
     }
 }
