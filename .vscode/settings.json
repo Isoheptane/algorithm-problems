@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.toml": "toml",
         "tuple": "cpp",
         "iostream": "cpp",
         "cstdio": "cpp",
@@ -85,6 +86,13 @@
         "hash_set": "cpp",
         "slist": "cpp",
         "charconv": "cpp",
-        "__memory": "cpp"
+        "__memory": "cpp",
+        "valarray": "cpp",
+        "stdio.h": "c",
+        "forward_list": "c",
+        "future": "c",
+        "regex": "c",
+        "*.ipp": "c",
+        "span": "c"
     }
 }
